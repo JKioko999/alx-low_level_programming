@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - this describes the main function of the code
+ * main - a program that prints the size of various types
  * Return 0
  */
 int main(void)
