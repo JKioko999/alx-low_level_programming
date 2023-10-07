@@ -1,4 +1,4 @@
-#include <stdio.c>
+#include <stdio.h>
 
 /**
  * main-this describes the main function of the code
